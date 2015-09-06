@@ -1,0 +1,169 @@
+
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 03-09-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] REDENEOBUX.COM -- 03-09-2015 --[/COLOR]
+
+
+#EXTINF:-1, TVI
+http://satznt.mine.nu:7002/tvi
+#EXTINF:-1, HOLLYWOOD
+http://satznt.mine.nu:7001/hlw
+#EXTINF:-1, TV CINE 1
+http://satznt.mine.nu:7003/tvc1
+#EXTINF:-1, TV CINE 2
+http://satznt.mine.nu:7001/tvc2
+#EXTINF:-1, TV CINE 3
+http://satznt.mine.nu:7003/tvc3
+#EXTINF:-1, TV CINE 4
+http://satznt.mine.nu:7001/tvc4
+#EXTINF:-1, DISNEY
+http://satznt.mine.nu:7003/disney
+#EXTINF:-1, CANAL PANDA
+http://satznt.mine.nu:7002/panda
+#EXTINF:-1, BABY TV
+http://satznt.mine.nu:7001/babytv
+#EXTINF:-1, SPORT TV 1
+http://satznt.mine.nu:7002/sptv1
+#EXTINF:-1, SPORT TV 2
+http://satznt.mine.nu:7003/sptv2
+#EXTINF:-1, SPORT TV 3
+http://satznt.mine.nu:7003/sptv3
+#EXTINF:-1, SPORT TV 4
+http://satznt.mine.nu:7001/sptv4
+#EXTINF:-1, SPORT TV 5
+http://satznt.mine.nu:7004/sptv5
+#EXTINF:-1, PLAYBOY
+http://satznt.mine.nu:7002/playboy
+#EXTINF:-1, HOT
+http://satznt.mine.nu:7004/hot
+
+
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP1.png" group-title="Canais Portugal",RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTP 2" tvg-logo="RTP2.png" group-title="Canais Portugal",RTP 2  
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png",RTP ACORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png",RTP AFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png",RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTP MEMORIA" tvg-logo="RTP MEMORIA.png" group-title="Canais Portugal",RTP MEMORIA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RTP INTERNACIONAL" tvg-logo="RTP INTERNACIONAL" group-title="Canais Portugal", RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+
+#EXTINF:-1, SIC
+http://213.13.26.7:1936/live/_definst_/sic/playlist.m3u8
+
+#EXTINF:-1, SIC (HQ)
+http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
+
+#EXTINF:-1, SIC MULHER
+rtmp://rtmp.miplayer.net/redirect playpath=sicmaria437r_thqa2af4 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf token=OOG17t.x#K9Vh#| live=1 pageUrl=http://miplayer.net/
+
+#EXTINF:-1, TVI (HQ)
+http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
+
+#EXTINF:-1, TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]ANIMACAO [/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, Tom and Jerry
+rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+
+#EXTINF:-1, Dragon Ball Z
+rtmp://208.53.180.218/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
+
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png", SPORT TV 1 SD
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=13/
+
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png", SPORT TV 2 SD
+rtmp://141.255.160.202:1935/stream/ playpath=0qZjb9kndn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/texto timeout=15/
+
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SPORT TV 3.png", SPORT TV 3 SD
+rtmp://179.43.158.196:1935/stream/ playpath=0Ftg8vdIeR.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/texto timeout=500/
+
+#EXTINF:-1, SPORT TV 4
+rtmp://50.97.82.51:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=m550n505yb1140b201pd5339g505sp1140l5339on505h250oq550u6095ib1140b201pa791.o201pa791o201p&width=600&height=460&st=14l4t5n4w574x2s2f436q24693u5y3d3m5k5w2e4c4s2438444741354t2y234w2s2r2&adx=&stream=h564f4d4.a4o574z2e4k554h5644494n23406h4a3f4w21374f476w226d3j47
+5h3b474t2r5e4y343z2z3q2b49434c4q2t26424n234n4q5e3h44494v213p4v2x4o4x585j3k5
+.b4u2r5m293j4j4t574l3v3a4j52406q5y334j4o234z3n244s2k5e4z2h5i533v2r213c4a4b4j5z2
+f5v2s2l523t24454c45444z223g5p2e4242434p2o234z3n204.&sooor=MTA=&str=is&ok=&cat=1&link=4&idom=www.gofeed2all.eu
+
+#EXTINF:-1, SPORT TV 5
+rtmp://158.85.70.82/flash playpath=21422?MTQ0MDc3MTg0NzswNmNhNDFkNWQxMzdkMjkzN2NmMGU4ZDE0Y2NmYzRjNw== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/hjNGViYTQwMzA1Nzg0NDliYzYyYTg5/aWExMDAwOjllZTE3MWMwMWFjMTBhZjBlOGQ5MzhmN2IyMGE5N2UzOjlkZWNkNDVkNz timeout=15
+
+#EXTINF:-1, BTV1 SD
+rtmp://46.246.29.138:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d9009g99sp6370l9009on682x6370ib6370b161pp6370l9009op6370l9009op6370l9009od9009g99sn99h826o&width=600&height=460&st=v45465n4w574x2s2f436q24693u594u3c4p4m484o2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h5t2b4n5i5l5t284c4i5y2c4x29453n2x timeout=15 conn=S:OK –live
+
+#EXTINF:-1, SPORT TV3/BTV2 SD (stream 2)
+http://109.236.88.32:80/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
+
+#EXTINF:-1, Telekanal Futbol (Campeonato Portugues)
+http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+
+#EXTINF:-1, TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
+
+#EXTINF:-1 tvg-id="RTP INFORMAÇAO" tvg-logo="RTP InformaçAo.png" group-title="Canais Portugal",RTP INFORMACAO
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+
+
+#EXTINF:-1,RFM CLUBBING
+http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
+
+#EXTINF:-1,M80
+http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC
+
+#EXTINF:-1,NOVA ERA
+http://stream.radio.com.pt:9478/stream
+
+#EXTINF:-1,94 FM
+http://195.8.58.150:35022/;stream.nsv
+
+#EXTINF:-1,SUPER FM
+http://94.23.76.235:9956/
+
+#EXTINF:-1,HIPER FM
+http://85.25.73.243:10460/
+
+#EXTINF:0,Radio Antena 1
+mms://195.245.168.21/antena1
+ 
+#EXTINF:0,Radio Antena 2
+mms://195.245.168.21/antena2
+ 
+#EXTINF:0,Radio Antena3
+mms://195.245.168.21/antena3
+ 
+#EXTINF:0,Radio Comercial
+mmsh://195.23.102.196/comercialcbr96?referrer=http://radiocomercial.clix.pt/asx/dynamic_channel.aspigrekrndigual80706&MSWMExt=.asf
+ 
+#EXTINF:0,Radio RFM
+http://7719.live.streamtheworld.com/RFM_SC
+
+#EXTINF:0,Radio Orbital
+mms://stream.radio.com.pt/ROLI-ENC-401
+ 
+#EXTINF:0, Radio Cidade FM
+mms://195.23.102.196/cidadecbr96
+ 
+ 
+#EXTINF:0, Radio MegaFM
+http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+ 
+#EXTINF:0, Radio TSF
+mmsh://emdirecto.tsf.pt/tsfdirecto?MSWMExt=.asf
+ 
+#EXTINF:0, Radio Vodafone FM
+rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/
